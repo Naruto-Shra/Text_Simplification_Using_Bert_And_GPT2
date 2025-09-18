@@ -9,7 +9,7 @@ BERT (Encoder): Learns deep contextual representations of the input (complex sen
 GPT-2 (Decoder): Generates fluent and simplified output in natural language.
 Together, this encoder-decoder architecture combines the understanding power of BERT with the generation capability of GPT-2.
 
-🔹** Workflow**
+🔹**Workflow**
 
 Dataset Preparation
 Parallel corpus of complex → simplified sentences.
